@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tri Tam</h1>
 <h3 align="center">A recent graduate from Ho Chi Minh City University of Industry with a degree in Information Systems. I was born in 2003, and currently, I reside and work in Ho Chi Minh City.</h3>
-<h3>Driven by a desire for continuous learning and the practical application of my knowledge, my goal is to become a Business Analyst.</h3>
+<h3 align="center">Driven by a desire for continuous learning and the practical application of my knowledge, my goal is to become a Business Analyst.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyentrantritam0310&label=Profile%20views&color=0e75b6&style=flat" alt="nguyentrantritam0310" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tr%c3%ad-t%c3%a2m-nguy%e1%bb%85n-1ab290276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tr%c3%ad-t%c3%a2m-nguy%e1%bb%85n-1ab290276/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ttam23z/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ttam23z/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/tam.tri.718689/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tam.tri.718689/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tr%c3%ad-t%c3%a2m-nguy%e1%bb%85n-1ab290276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tr%c3%ad-t%c3%a2m-nguy%e1%bb%85n-1ab290276/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ttam23z/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ttam23z/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tam.tri.718689/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tam.tri.718689/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
