@@ -39,11 +39,15 @@
 
 <span><img src="https://img.shields.io/badge/Visual%20Paradigm-282C34?logo=visual-paradigm&logoColor=6666FF" alt="Visual Paradigm logo" title="Visual Paradigm" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/draw.io-282C34?logo=draw-dot-io&logoColor=FDB22A" alt="draw.io logo" title="draw.io" height="25" /></span>
+&nbsp;
+<br>
 <span><img src="https://img.shields.io/badge/Tableau-282C34?logo=tableau&logoColor=E97627" alt="Tableau logo" title="Tableau" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Power%20BI-282C34?logo=power-bi&logoColor=F2C811" alt="Power BI logo" title="Power BI" height="25" /></span>
+<br>
 <span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Power%20BI-282C34?logo=power-bi&logoColor=F2C811" alt="Power BI logo" title="Power BI" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Photoshop-282C34?logo=adobe-photoshop&logoColor=31A8FF" alt="Photoshop logo" title="Photoshop" height="25" /></span>
 &nbsp;
 <br>
@@ -65,6 +69,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
+<br>
 <span><img src="https://img.shields.io/badge/SQL%20Server-282C34?logo=microsoft-sql-server&logoColor=CC2927" alt="Microsoft SQL Server logo" title="SQL Server" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
