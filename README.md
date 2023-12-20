@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tri Tam</h1>
 <h3 align="center">This is the place that houses all of my projects and open-source code.</h3>
-### ✨&nbsp; About Me
+<h3 align="left">✨&nbsp; About Me</h3>
 
 <h3 align="center">A recent graduate from Industrial University of Ho Chi Minh City (IUH) with a degree in Information Systems. I was born in 2003, and currently, I reside and work in Ho Chi Minh City.</h3>
 <h3 align="center">Driven by a desire for continuous learning and the practical application of my knowledge, my goal is to become a Business Analyst.</h3>
