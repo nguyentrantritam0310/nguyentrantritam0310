@@ -26,14 +26,15 @@
 
 - ⚡ Fun fact **I think I am sociable, friendly, enthusiastic, eager to learn, meticulous and careful**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">![image](https://github.com/nguyentrantritam0310/nguyentrantritam0310/assets/99269849/b125786e-5c1d-4db9-9ea5-e14fcad406fb)
+Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/trí-tâm-nguyễn-1ab290276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trí-tâm-nguyễn-1ab290276" height="30" width="40" /></a>
 <a href="https://fb.com/ttam23z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ttam23z" height="30" width="40" /></a>
 <a href="https://instagram.com/tam.tri.718689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tam.tri.718689" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🛠 Technologies and Tools 🛠</h3>
+<h3 align="left">🛠 Technologies and Tools</h3>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Visual%20Paradigm-282C34?logo=visual-paradigm&logoColor=6666FF" alt="Visual Paradigm logo" title="Visual Paradigm" height="25" /></span>
 &nbsp;
