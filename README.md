@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tri Tam</h1>
-<h3 align="center">A passionate Business Analyst from Vietnam</h3>
+<h3 align="center">A passionate Business Analyst from Vietnam. Currently specializing in Information Systems, my academic journey has equipped me with solid skills in business analysis and effective communication.</h3>
+
+<ul>
+  <li>Short-term goal: In the coming year, my objective is to secure a position that aligns with my current skills and knowledge, providing me with the opportunity to immerse myself in a practical work environment. Through this, I aim to seize every opportunity to enhance my personal development and make meaningful contributions to the company's projects.</li>
+  <li>Long-term goal: Over the next 5 years, I aspire to obtain a job with a clear career progression path, allowing me to advance and become an expert in the business analysis field.</li>
+</ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyentrantritam0310&label=Profile%20views&color=0e75b6&style=flat" alt="nguyentrantritam0310" /> </p>
 
