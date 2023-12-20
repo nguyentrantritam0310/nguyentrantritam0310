@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyentrantritam0310&label=Profile%20views&color=0e75b6&style=flat" alt="nguyentrantritam0310" /> </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyentrantritam0310" alt="nguyentrantritam0310" /></a> </p>
 
 - 🌱 I’m currently learning **(chưa có)**
