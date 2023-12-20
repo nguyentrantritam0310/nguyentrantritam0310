@@ -37,8 +37,3 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nguyentrantritam0310&theme=tokyonight&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
