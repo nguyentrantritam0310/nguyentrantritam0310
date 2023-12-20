@@ -34,9 +34,7 @@
 </p>
 
 <h3 align="left">🛠 Technologies and Tools 🛠</h3>
-<br>
 <!-- https://simpleicons.org/ -->
-
 <span><img src="https://img.shields.io/badge/Visual%20Paradigm-282C34?logo=visual-paradigm&logoColor=6666FF" alt="Visual Paradigm logo" title="Visual Paradigm" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/draw.io-282C34?logo=draw-dot-io&logoColor=FDB22A" alt="draw.io logo" title="draw.io" height="25" /></span>
