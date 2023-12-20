@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tri Tam</h1>
-<h3 align="center">A passionate Business Analyst from Vietnam. Currently, I'm a K17 student at Ho Chi Minh City University of Technology</h3>
+<h3 align="center">A recent graduate from Ho Chi Minh City University of Industry with a degree in Information Systems. I was born in 2003, and currently, I reside and work in Ho Chi Minh City.</h3>
+<h3>Driven by a desire for continuous learning and the practical application of my knowledge, my goal is to become a Business Analyst.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyentrantritam0310&label=Profile%20views&color=0e75b6&style=flat" alt="nguyentrantritam0310" /> </p>
 
