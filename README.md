@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Tri Tam</h1>
-<h3 align="center">A recent graduate from Industrial University of Ho Chi Minh City (IUH) with a degree in Information Systems. I was born in 2003, and currently, I reside and work in Ho Chi Minh City.</h3>
-<h3 align="center">Driven by a desire for continuous learning and the practical application of my knowledge, my goal is to become a Business Analyst.</h3>
+<h3 align="center">This is the place that houses all of my projects and open-source code.</h3>
+### ✨&nbsp; About Me
+
+<h5 align="center">A recent graduate from Industrial University of Ho Chi Minh City (IUH) with a degree in Information Systems. I was born in 2003, and currently, I reside and work in Ho Chi Minh City.</h5>
+<h5 align="center">Driven by a desire for continuous learning and the practical application of my knowledge, my goal is to become a Business Analyst.</h5>
+
+  ____                  ____                      
+ / __ \___  ___ ___    / __/__  __ _____________  
+/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
+\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
+   _/_/                  __  __   _               
+  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
+ / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
+/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
+                 /___/                /___/       
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyentrantritam0310&label=Profile%20views&color=0e75b6&style=flat" alt="nguyentrantritam0310" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyentrantritam0310" alt="nguyentrantritam0310" /></a> </p>
