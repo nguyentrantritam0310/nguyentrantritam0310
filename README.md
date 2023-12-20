@@ -36,7 +36,10 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
+
 <span><img src="https://img.shields.io/badge/Visual%20Paradigm-282C34?logo=visual-paradigm&logoColor=6666FF" alt="Visual Paradigm logo" title="Visual Paradigm" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Tableau-282C34?logo=tableau&logoColor=E97627" alt="Tableau logo" title="Tableau" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
 &nbsp;
@@ -51,13 +54,12 @@
 <span><img src="https://img.shields.io/badge/Microsoft%20PowerPoint-282C34?logo=microsoft-powerpoint&logoColor=B7472A" alt="Microsoft PowerPoint logo" title="Microsoft PowerPoint" height="25" /></span>
 &nbsp;
 <br>
-<span><img src="https://img.shields.io/badge/Tableau-282C34?logo=tableau&logoColor=E97627" alt="Tableau logo" title="Tableau" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Trello-282C34?logo=trello&logoColor=0079BF" alt="Trello logo" title="Trello" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Jira-282C34?logo=jira&logoColor=0052CC" alt="Jira logo" title="Jira" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Confluence-282C34?logo=confluence&logoColor=172B4D" alt="Confluence logo" title="Confluence" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Lucidchart-282C34?logo=lucidchart&logoColor=FF9900" alt="Lucidchart logo" title="Lucidchart" height="25" /></span>
 <br>
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" /></span>
 &nbsp;
