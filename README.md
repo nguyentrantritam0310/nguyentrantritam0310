@@ -9,7 +9,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyentrantritam0310&show_icons=true&theme=tokyonight)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyentrantritam0310" alt="nguyentrantritam0310" /></a> </p>
+
 
 - 🌱 I’m currently learning **(chưa có)**
 
