@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tri Tam</h1>
 <h3 align="center">This is the place that houses all of my projects and open-source code.</h3>
+<!-- Trungquandev -->
+<a href="#" target="_blank">
+  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+</a>
 <h3 align="left">✨&nbsp; About Me</h3>
 
 <h4 align="left">A recent graduate from Industrial University of Ho Chi Minh City (IUH) with a degree in Information Systems. I was born in 2003, and currently, I reside and work in Ho Chi Minh City.</h4>
