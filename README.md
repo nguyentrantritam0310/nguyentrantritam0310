@@ -9,21 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyentrantritam0310&label=Profile%20views&color=0e75b6&style=flat" alt="nguyentrantritam0310" /> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyentrantritam0310&show_icons=true&theme=tokyonight)
-
-
-
 - 🌱 I’m currently learning **(chưa có)**
 
-- 👨‍💻 All of my projects are available at [(chưa có)]((chưa có))
-
-- 📝 I regularly write articles on [(chưa có)]((chưa có))
-
-- 💬 Ask me about **business analysis, UI UX, English**
+- 👨‍💻 All of my projects are available at **https://nguyentrantritam0310.github.io/portfolio/** 
 
 - 📫 How to reach me **nguyentrantritam0310@gmail.com**
 
-- 📄 Know about my experiences [(chưa có)]((chưa có))
+- 📄 Know about my experiences **[(chưa có)]((chưa có))**
 
 - ⚡ Fun fact **I think I am sociable, friendly, enthusiastic, eager to learn, meticulous and careful**
 
@@ -33,8 +25,4 @@
 <a href="https://fb.com/ttam23z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ttam23z" height="30" width="40" /></a>
 <a href="https://instagram.com/tam.tri.718689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tam.tri.718689" height="30" width="40" /></a>
 </p>
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nguyentrantritam0310&theme=tokyonight&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
