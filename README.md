@@ -7,6 +7,8 @@
 <h4 align="left">A recent graduate from Industrial University of Ho Chi Minh City (IUH) with a degree in Information Systems. I was born in 2003, and currently, I reside and work in Ho Chi Minh City.</h4>
 <h4 align="left">Driven by a desire for continuous learning and the practical application of my knowledge, my goal is to become a Business Analyst.</h4>
 
+<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+
 - 🌱 I’m currently learning **(chưa có)**
 
 - 👨‍💻 All of my projects are available at **https://nguyentrantritam0310.github.io/portfolio/** 
@@ -17,7 +19,6 @@
 
 - ⚡ Fun fact **I think I am sociable, friendly, enthusiastic, eager to learn, meticulous and careful**
 
-<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
