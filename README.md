@@ -4,10 +4,8 @@
 
 <h3 align="left">✨&nbsp; About Me</h3>
 
-<h4 align="left">A recent graduate from Industrial University of Ho Chi Minh City (IUH) with a degree in Information Systems. I was born in 2003, and currently, I reside and work in Ho Chi Minh City.</h4>
+<h4 align="left">I'm a final-year student majoring in Information Systems at Industrial University of Ho Chi Minh City (IUH). Currently living and working in Ho Chi Minh City, I find inspiration in the dynamic environment here.</h4>
 <h4 align="left">Driven by a desire for continuous learning and the practical application of my knowledge, my goal is to become a Business Analyst.</h4>
-
-- 🌱 I’m currently learning **(chưa có)**
 
 - 👨‍💻 All of my projects are available at **https://nguyentrantritam0310.github.io/portfolio/** 
 
