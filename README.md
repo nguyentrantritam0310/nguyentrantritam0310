@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tri Tam</h1>
 <h3 align="center">This is the place that houses all of my projects and open-source code.</h3>
+<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 <h3 align="left">✨&nbsp; About Me</h3>
 
